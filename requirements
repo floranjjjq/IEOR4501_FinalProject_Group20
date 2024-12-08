@@ -1,0 +1,17 @@
+pip install os
+pip install re
+pip install requests
+pip install bs4
+pip install math
+pip install matplotlib
+pip install pandas
+pip install numpy
+pip install geopandas
+pip install sqlalchemy
+pip install pyarrow.parquet
+pip install datetime
+pip install sqlite3
+pip install seaborn
+pip install folium
+pip install IPython.display
+pip install typing
